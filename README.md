@@ -1,7 +1,9 @@
 # Fullstack
-# 🧑‍💼 Proyecto de Gestión de Usuarios - CRUD Fullstack
+# 🧑‍💼 Plataforma de Gestión de Clientes (CMS) - Stack Full Stack Robusto
 
-Este proyecto es una aplicación web completa para la **gestión de usuarios**, desarrollada utilizando tecnologías modernas del stack fullstack:
+Aplicación web Full Stack completa diseñada para la gestión eficiente del ciclo de vida de los usuarios (CRUD). Este proyecto demuestra la capacidad de integración y desarrollo de punta a punta, adhiriéndose a patrones de diseño de software y buenas prácticas de seguridad.
+
+La solución combina la eficiencia del Backend Java/Spring Boot con la reactividad y la modernidad de Angular 19
 
 - **Frontend:** Angular 19
 - **Backend:** Spring Boot (Java 17)
@@ -78,4 +80,25 @@ El objetivo de esta aplicación es permitir la administración de usuarios a tra
 ---
 
 ## 📦 Estructura de Carpetas
+<h4 align="left">├── client-app/              # Proyecto Frontend (Angular)<br>│   ├── src/app/components/  # Componentes reutilizables<br>│   ├── src/app/services/    # Lógica de comunicación con el Backend<br>│   └── src/app/models/      # Interfaces TypeScript<br>├── server-api/              # Proyecto Backend (Spring Boot)<br>│   ├── src/main/java/controller/ # Controladores REST<br>│   ├── src/main/java/service/    # Lógica de Negocio (Servicios)<br>│   └── src/main/java/repository/ # Persistencia (Spring Data JPA)<br>└── README.md</h4>
 
+###
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+###
